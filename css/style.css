@@ -1,0 +1,59 @@
+body,
+html {
+	height: 100%;
+	margin: 0;
+	font-family: verdana;
+}
+
+table {
+	border-spacing: 0px;
+}
+.bg{
+	background-image: url(../image/banner-bg.jpg);
+}
+.xyz{
+	background-image: url(../image/img2.png);
+}
+.menu {
+	color: white;
+	
+}
+
+.font {
+	font-size: 2em;
+	color: limegreen;
+
+}
+
+.img {
+	background-image: url(../image/images/application-icon.png);
+}
+
+.hr {
+	
+	color: white;
+
+}
+
+.rs {
+color: green
+}
+
+.img2 {
+     background-image: url(../image/application.jpg)	
+}
+
+ .fon{
+	color: #283848;
+	 font-size:14px; 
+}
+.fon2{
+	 font-size:17px;
+	 color: #283848;
+}
+.fon1{
+	font-size: 14px;
+}
+.get{
+	color: #2abd68;
+}
